@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="liteWeather" />
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.sun.liteweather.area_db.City"/>
+        <mapping class="com.sun.liteweather.area_db.Province"/>
+        <mapping class="com.sun.liteweather.area_db.County"/>
+    </list>
+
+
+</litepal>
